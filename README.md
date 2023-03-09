@@ -1,8 +1,8 @@
 # Laravel Nova Tel Input
 
-<p align="center">
-<img src="img.png" width="400">
-</p>
+
+<img src="img.png">
+
 
 ## Installation
 
@@ -18,7 +18,4 @@ use Ppp\TelInput\TelInput;
 TelInput::make(__('cena'), 'price'),
 ```
 
-## Licence
-
-The MIT License (MIT). Please see [License File](LICENCE) for more information.
 
