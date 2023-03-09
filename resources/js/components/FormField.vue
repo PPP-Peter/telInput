@@ -49,6 +49,7 @@ export default {
                 defaultCountry: "SK",
                 disabledFetchingCountry: false,
                 disabled: false,
+                autoDefaultCountry: true,
                 disabledFormatting: false,
                 placeholder: "Tel. číslo",
                 required: false,

@@ -1,6 +1,6 @@
 {
-    "name": "pppcreative/tel-input",
-    "description": "Nova Tel Input field.",
+    "name": "ppp/tel-input",
+    "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
         "nova"
